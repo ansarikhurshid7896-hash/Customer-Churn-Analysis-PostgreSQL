@@ -346,8 +346,10 @@ Customer-Churn-Analysis/
 ├── churn_events.csv
 │
 └── README.md
-```
+
 payments.csv and customer_usage.csv are excluded from the repository because their file sizes exceed GitHub's individual file-size limit.
+```
+
 ---
 
 ## ▶️ How to Use
