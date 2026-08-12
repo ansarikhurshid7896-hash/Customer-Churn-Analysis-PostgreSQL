@@ -342,14 +342,12 @@ Customer-Churn-Analysis/
 ├── customers.csv
 ├── subscriptions.csv
 ├── services.csv
-├── payments.csv
-├── customer_usage.csv
 ├── support_tickets.csv
 ├── churn_events.csv
 │
 └── README.md
 ```
-
+payments.csv and customer_usage.csv are excluded from the repository because their file sizes exceed GitHub's individual file-size limit.
 ---
 
 ## ▶️ How to Use
